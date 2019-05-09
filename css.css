@@ -9,8 +9,14 @@ body{
 
 .Text1{
   position: absolute;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 .Text2{
   position: absolute;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
