@@ -31,3 +31,7 @@ hr {
   font-size: 25px;
   color: coral;
 }
+
+a{
+  text-decoration: none;
+}
