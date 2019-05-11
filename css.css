@@ -15,6 +15,7 @@ body{
 }
 
 .Text1{
+  line-height:100%;
   align-items:center;
   display:flex;
   justify-content:center;
@@ -22,6 +23,7 @@ body{
 }
 
 .Text2{
+  line-height:100%;
   align-items:center;
   display:flex;
   justify-content:center;
