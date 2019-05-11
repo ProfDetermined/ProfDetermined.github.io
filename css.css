@@ -8,6 +8,9 @@ body{
   display:flex;
   justify-content:center;
   align-items:center;
+  min-height: 10em;
+  display: table-cell;
+  vertical-align: middle;
   font-family: 'Kanit', sans-serif;
 }
 
