@@ -1,0 +1,22 @@
+//META{"name":"Super Shadow | OOO Tatoba Style","description":"so bored w/ default discord.","author":"detzz.space","version":"1.0.0a","website":"detzz.space"}*//{}
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/Use_Fonts/Yes.css');
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+@import url('https://profdetermined.github.io/rtsorce.css');
+
+:root {
+/* Main Color */
+--main-color: #2e2e2e;
+/* Button color and other aspects */
+--dark-red: rgba(100,15,30,1);
+/* Background Opacity to image >number within [0,1)*/
+--bg-opacity: 0;
+}
+
+#app-mount {
+	background: url(https://i.imgur.com/VUCXe0Y.jpg) center/cover;
+}
+
+.container-16j22k {
+    background: url(https://i.imgur.com/VUCXe0Y.jpg) no-repeat center/cover;
+    -webkit-mask: -webkit-radial-gradient( rgba(0,0,0,1), rgba(0,0,0,0.95))
+}
