@@ -1,0 +1,67 @@
+body {
+  background: #ffd452;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #544a7d, #ffd452);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #544a7d, #ffd452); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Kanit', sans-serif;
+  margin: 0;
+}
+
+.text1 {
+ font-family: 'Kanit', sans-serif;
+ font-size: 20px;
+ color: coral;
+ }
+
+tr.header {
+  font-size: 25px;
+}
+
+th {
+  border: 2px solid coral;
+}
+
+table {
+  width: 90%;
+  border-collapse: collapse;
+  border-radius: 20px;
+}
+
+.bg{
+  background-color: rgb(240, 240, 240);
+  padding: 10px;
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.nav{
+  overflow: hidden;
+  background-color: rgb(240, 240, 240);
+}
+
+.nav a {
+  float: left;
+  display: block;
+  color: coral;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: rgb(180, 180, 180);
+  color: black;
+}
+
+button{
+  font-family: 'Kanit', sans-serif;
+  padding: 15px 32px;
+  background-color: coral;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px
+  display: inline-block;
+}
